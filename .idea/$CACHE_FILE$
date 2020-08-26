@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/gits/Async/subscription-order-capture-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/Async/subscription-order-entry-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/BSSHUB/customer-management-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/BSSHUB/develop/customer-management-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/BSSHUB/subscription-order-entry-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/StarProject/to135663-webservice-star" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/db-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/order-wiki" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/product-management" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/subscription-order-capture-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gits/subscription-order-entry-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
