@@ -19,18 +19,20 @@ pipeline {
            }
         }*/
         
+        
+        stage('Test') {
+            steps {
+                sh './gradlew test'
+            }
+        }
+        
         stage('SonarQube analysis') {
              steps {
                 withSonarQubeEnv('sonar') {
                  sh './gradlew sonarqube'
                 }
              }
-        }
-                
-        stage('Test') {
-            steps {
-                sh './gradlew test'
-            }
-        }
+        }  
+        
     }
 }
