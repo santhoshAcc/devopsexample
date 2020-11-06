@@ -5,7 +5,7 @@ pipeline {
               
         stage('Build') {
             steps {
-                sh './gradlew assemble'
+                bat './gradlew assemble'
             }
         }
         
